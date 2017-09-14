@@ -1,19 +1,30 @@
 {
-    "version": "1.0.0",
-    "name": "react-native-subtext",
-    "description": "自动识别文本中的数字等转为上标或者下标",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/liuliuabc/react-native-subtext"
-    },
-    "license": "MIT",
-    "main": "./index.js",
-    "keywords": [
-        "react-native-subtext",
-        "react-native-suptext",
-        "subtext",
-        "suptext"
-    ],
-    "dependencies": {
-    }
+  "name": "react-native-subtext",
+  "version": "1.0.0",
+  "description": "自动识别文本中的指定文本并转为上标或者下标",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuliuabc/react-native-subtext.git"
+  },
+  "keywords": [
+    "react-native-subtext",
+    "react-native-suptext",
+    "react-suptext",
+    "react-subtext",
+    "suptext",
+    "subtext"
+  ],
+  "author": "liuliuabc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liuliuabc/react-native-subtext/issues"
+  },
+  "homepage": "https://github.com/liuliuabc/react-native-subtext#readme"
 }
