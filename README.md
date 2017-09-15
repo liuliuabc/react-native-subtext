@@ -1,5 +1,8 @@
 # react-native-subtext
 自动识别文本中的数字转为上标或者下标 android&ios
+<img width="480" src="https://github.com/liuliuabc/imgfolder/blob/master/subtextdemo.png?raw=true"/>
+
+
 ### Start 
 
 ``` bash
